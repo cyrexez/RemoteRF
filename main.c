@@ -179,5 +179,5 @@ void Send(uint16_t AnalogData){
         //_delay_ms(45);
         } 
 
-        //_delay_ms(2000);
+        //_delay_ms(2000);//ftdg
 }
